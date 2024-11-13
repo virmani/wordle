@@ -1,6 +1,5 @@
 const words = {
 	"words": [
-		"cigar",
 		"rebut",
 		"sissy",
 		"humph",
